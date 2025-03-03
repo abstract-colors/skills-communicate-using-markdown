@@ -1,3 +1,7 @@
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ## h2 and
 # h1 have line breaks
 ### h3 and smaller has no line break
